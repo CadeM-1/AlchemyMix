@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/BackgroundPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AlchemyMix" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CadeM-1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CadeM-1/AlchemyMix",
+    "accountId": "c1e9bd17-7e88-4686-99e1-acdbbdf112ea"
+  }
+}]]></component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\cade_\.gradle\wrapper\dists\gradle-8.14-bin\38aieal9i53h9rfe7vjup95b9\gradle-8.14" javaHome="C:\Users\cade_\.jdks\ms-21.0.8" gradleVersion="8.14" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33HEfxq5BGycRVxIAfwQnfSvSxv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Run.executor": "Run",
+    "Gradle.AlchemyMix [:com.alchemymix.Main.main()].executor": "Run",
+    "Gradle.Build AlchemyMix.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.alchemymix.Main" />
+      <module name="AlchemyMix.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="" />
+      <created>1758965727263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758965727263</updated>
+      <workItem from="1758965729375" duration="14254000" />
+      <workItem from="1758987250567" duration="9815000" />
+      <workItem from="1759029119239" duration="16661000" />
+      <workItem from="1759122500267" duration="4723000" />
+      <workItem from="1759198592497" duration="9427000" />
+      <workItem from="1759229619365" duration="17993000" />
+      <workItem from="1759304496807" duration="300000" />
+      <workItem from="1759367229050" duration="2911000" />
+      <workItem from="1759373561908" duration="3309000" />
+      <workItem from="1759377332640" duration="784000" />
+      <workItem from="1759503869202" duration="3584000" />
+      <workItem from="1759558992587" duration="22874000" />
+      <workItem from="1759731478762" duration="3012000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cades first commit">
+      <option name="closed" value="true" />
+      <created>1758965932180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758965932180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added an options button that does notjhing">
+      <option name="closed" value="true" />
+      <created>1758968616439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758968616439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added an options menu with a Togglable fullscreen button that is currently non-functional and a &quot;go back button&quot; that is functional">
+      <option name="closed" value="true" />
+      <created>1758976543935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758976543935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Backup before merge">
+      <option name="closed" value="true" />
+      <created>1758978635991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758978635991</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Options menu with Resolution Dropdown and working Fullscreen Toggle. Options do not save so will add optionsconfig">
+      <option name="closed" value="true" />
+      <created>1758997043537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758997043537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Backup before merge">
+      <option name="closed" value="true" />
+      <created>1759030656306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759030656306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed OptionsPanel.java after the merge, reallowing the functionality of the resolution dropdown and fullscreen implemented from the PanelManager.java">
+      <option name="closed" value="true" />
+      <created>1759032222801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759032222801</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new options menu">
+      <option name="closed" value="true" />
+      <created>1759070763197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759070763197</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Apply button, UI tweaks">
+      <option name="closed" value="true" />
+      <created>1759124803414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759124803414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="UI Tweaks, ConfigManager added">
+      <option name="closed" value="true" />
+      <created>1759304666245</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759304666245</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed unversioned files">
+      <option name="closed" value="true" />
+      <created>1759368416397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759368416397</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cades first commit" />
+    <MESSAGE value="Added an options button that does notjhing" />
+    <MESSAGE value="Added an options menu with a Togglable fullscreen button that is currently non-functional and a &quot;go back button&quot; that is functional" />
+    <MESSAGE value="Options menu with Resolution Dropdown and working Fullscreen Toggle. Options do not save so will add optionsconfig" />
+    <MESSAGE value="Backup before merge" />
+    <MESSAGE value="Fixed OptionsPanel.java after the merge, reallowing the functionality of the resolution dropdown and fullscreen implemented from the PanelManager.java" />
+    <MESSAGE value="new options menu" />
+    <MESSAGE value="Apply button, UI tweaks" />
+    <MESSAGE value="UI Tweaks, ConfigManager added" />
+    <MESSAGE value="Fixed unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed unversioned files" />
+  </component>
+</project>

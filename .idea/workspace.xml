@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/BackgroundPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/MenuButton.java" afterDir="false" />
+    <list default="true" id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="Implemented Login Panel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/core/PanelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/core/PanelManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/panels/LoginPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/panels/LoginPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/images/alchemy-button-normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/images/button image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/images/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/images/menubackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alchemymix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/panels/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/panels/LoginPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/alchemy-button-hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/alchemy-button-normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/MenuButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/MenuButton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +131,7 @@
       <workItem from="1759503869202" duration="3584000" />
       <workItem from="1759558992587" duration="22874000" />
       <workItem from="1759731478762" duration="13260000" />
-      <workItem from="1759830295476" duration="1483000" />
+      <workItem from="1759830295476" duration="3152000" />
     </task>
     <task id="LOCAL-00001" summary="Cades first commit">
       <option name="closed" value="true" />
@@ -240,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759735277472</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Implemented Login Panel">
+      <option name="closed" value="true" />
+      <created>1759832009784</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759832009785</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +255,7 @@
     <MESSAGE value="UI Tweaks, ConfigManager added" />
     <MESSAGE value="Fixed unversioned files" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Implemented Login Panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Login Panel" />
   </component>
 </project>

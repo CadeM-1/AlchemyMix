@@ -11,22 +11,28 @@ public class LoginPanel extends BackgroundPanel {
     public LoginPanel(PanelManager manager) {
         super(new ImageIcon(LoginPanel.class.getResource("/images/menubackgrounds.png")).getImage());
 
+        setLayout(new BorderLayout());
 
-        setLayout(new GridBagLayout());
+        ImageIcon titleImage = new ImageIcon(LoginPanel.class.getResource("/images/title.png"));
+        Image scaledTitle = titleImage.getImage().getScaledInstance(580, 250, Image.SCALE_SMOOTH);
+        JLabel title = new JLabel(new ImageIcon(scaledTitle));
+        title.setHorizontalAlignment(SwingConstants.CENTER);
+
+        JPanel titlePanel = new JPanel(new BorderLayout());
+        titlePanel.setOpaque(false);
+        titlePanel.setBorder(BorderFactory.createEmptyBorder(50, 0, 0, 0)); // 20px gap from top
+        titlePanel.add(title, BorderLayout.CENTER);
+
+        add(titlePanel, BorderLayout.NORTH);
 
         JPanel contentPanel = new JPanel();
         contentPanel.setOpaque(false);
         contentPanel.setLayout(new BoxLayout(contentPanel, BoxLayout.Y_AXIS));
 
-        ImageIcon titleImage = new ImageIcon(LoginPanel.class.getResource("/images/title.png"));
-        Image scaledTitle = titleImage.getImage().getScaledInstance(350, 200, Image.SCALE_SMOOTH);
-        JLabel title = new JLabel(new ImageIcon(scaledTitle));
-        title.setAlignmentX(Component.CENTER_ALIGNMENT);
 
 
-        contentPanel.add(title);
 
-        MenuButton LoginButton = new MenuButton("LOGIN");
+        MenuButton LoginButton = new MenuButton("START GAME");
         contentPanel.add(LoginButton);
 
         add(contentPanel);

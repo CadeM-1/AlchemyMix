@@ -7,10 +7,13 @@ import java.awt.event.MouseEvent;
 
 public class MenuButton extends JButton {
 
-    // Static shared icons (only loaded once)
-    private static final ImageIcon NORMAL_ICON = new ImageIcon(MenuButton.class.getResource("/images/button-normal.png"));
-    private static final ImageIcon HOVER_ICON = new ImageIcon(MenuButton.class.getResource("/images/button-hover.png"));
+    // Target button size in your virtual resolution (1280x720)
+    private static final int BUTTON_WIDTH = 200;
+    private static final int BUTTON_HEIGHT = 60;
 
+    // Scaled icons (loaded once)
+    private static final ImageIcon NORMAL_ICON = loadAndScaleIcon("/images/button-normal.png");
+    private static final ImageIcon HOVER_ICON  = loadAndScaleIcon("/images/button-hover.png");
 
     public MenuButton(String label) {
         super(label);
@@ -28,7 +31,7 @@ public class MenuButton extends JButton {
         setFocusPainted(false);
         setOpaque(false);
 
-        // Center align text over image
+        // Center align text over image (for BoxLayout)
         setAlignmentX(Component.CENTER_ALIGNMENT);
 
         // Hover behavior
@@ -43,5 +46,12 @@ public class MenuButton extends JButton {
                 setIcon(NORMAL_ICON);
             }
         });
+    }
+
+    private static ImageIcon loadAndScaleIcon(String path) {
+        ImageIcon rawIcon = new ImageIcon(MenuButton.class.getResource(path));
+        Image scaledImage = rawIcon.getImage().getScaledInstance(
+                BUTTON_WIDTH, BUTTON_HEIGHT, Image.SCALE_SMOOTH);
+        return new ImageIcon(scaledImage);
     }
 }

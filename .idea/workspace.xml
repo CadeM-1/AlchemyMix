@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="">
+    <list default="true" id="7ae10d58-8762-4f0c-82ac-6218e95588ae" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/BackgroundPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/widgets/MenuButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/core/PanelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/core/PanelManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/panels/LoginPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/alchemymix/ui/panels/LoginPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/images/alchemy-button-normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/images/button image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/images/menubackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alchemymix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/panels/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alchemymix/ui/panels/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/alchemy-button-hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/alchemy-button-normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/icon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +64,12 @@
     &quot;assignee&quot;: &quot;CadeM-1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CadeM-1/AlchemyMix",
-    "accountId": "c1e9bd17-7e88-4686-99e1-acdbbdf112ea"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CadeM-1/AlchemyMix&quot;,
+    &quot;accountId&quot;: &quot;c1e9bd17-7e88-4686-99e1-acdbbdf112ea&quot;
   }
-}]]></component>
+}</component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\cade_\.gradle\wrapper\dists\gradle-8.14-bin\38aieal9i53h9rfe7vjup95b9\gradle-8.14" javaHome="C:\Users\cade_\.jdks\ms-21.0.8" gradleVersion="8.14" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -69,28 +83,28 @@
     <option name="autoscrollToSource" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Run.executor": "Run",
-    "Gradle.AlchemyMix [:com.alchemymix.Main.main()].executor": "Run",
-    "Gradle.Build AlchemyMix.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Run.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AlchemyMix [:com.alchemymix.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build AlchemyMix.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.alchemymix.Main" />
@@ -127,7 +141,8 @@
       <workItem from="1759377332640" duration="784000" />
       <workItem from="1759503869202" duration="3584000" />
       <workItem from="1759558992587" duration="22874000" />
-      <workItem from="1759731478762" duration="3012000" />
+      <workItem from="1759731478762" duration="13260000" />
+      <workItem from="1759830295476" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="Cades first commit">
       <option name="closed" value="true" />
@@ -217,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759368416397</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1759735277472</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759735277472</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +257,7 @@
     <MESSAGE value="Apply button, UI tweaks" />
     <MESSAGE value="UI Tweaks, ConfigManager added" />
     <MESSAGE value="Fixed unversioned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed unversioned files" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
